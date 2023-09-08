@@ -1,0 +1,23 @@
+h1 {
+margin-top: 80px; 
+color: #2c3e50;
+font-size: 40px;
+font-weight: bolder;
+}
+.line {
+width: 100px;
+height: 5px;
+background-color: #2c3e50;
+}
+i {
+color: #2c3e50;
+}
+input:focus {
+box-shadow: 0 0 0 transparent;
+}
+button {
+background-color: #1abc9c;
+}
+button:hover {
+background-color: #1abc9c;
+}
